@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notified">NotifiedActivity</string>
+    <string name="NotifiedMsg">You have been Notified !!</string>
+    <string name="AppDesc">Sample App for Notification in Android !!!</string>
+</resources>
