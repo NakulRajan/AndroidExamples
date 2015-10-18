@@ -7,10 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 
 
-public class BottomPane extends Fragment{
+public class ReplacedPane extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState){
-        return inflater.inflate(R.layout.bottom_panel, container, false);
+        return inflater.inflate(R.layout.replaced_panel, container, false);
     }
 }
