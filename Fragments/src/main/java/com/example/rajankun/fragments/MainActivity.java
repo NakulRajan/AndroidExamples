@@ -5,6 +5,16 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 
+/** Fragments example, where we programmatically render two fragments one below another
+ * and then replace the fragment at the bottom when the user clicks on a button in top
+ * fragment.
+ *
+ * This Activity implements the interface that is defined inside the fragment. So that fragment
+ * knows how to communicate with the other fragment through  Activity Class.
+ *
+ * Ref: http://developer.android.com/training/basics/fragments/index.html
+ */
+
 public class MainActivity extends AppCompatActivity implements TopPane.OnButtonClickedListner {
 
     FragmentManager mFragmentManager;

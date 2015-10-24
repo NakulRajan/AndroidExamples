@@ -1,1 +1,1 @@
-include ':Notification', ':Fragments'
+include ':Notification', ':Fragments', ':BroadcastReceiver'

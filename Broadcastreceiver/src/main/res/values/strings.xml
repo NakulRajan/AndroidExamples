@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BroadcastReceiver</string>
+    <string name="action_settings">Settings</string>
+    <string name="broadcast_receiver">Broadcast Receiver !</string>
+    <string name="send_broadcast">Send Broadcast</string>
+    <string name="send_broadcast_local">Send Broadcast Local</string>
+</resources>

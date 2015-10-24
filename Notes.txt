@@ -1,0 +1,6 @@
+Pending Intent :
+    A pending intent is a token that you give to another application (e.g., notification manager, alarm manager or other 3rd party applications),
+    which allows this other application to use the permissions of your application to execute a predefined piece of code.
+
+
+
