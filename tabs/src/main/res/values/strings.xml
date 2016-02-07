@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="first_fragment">Fragment 1</string>
+    <string name="second_fragment">Fragment 2</string>
+</resources>
