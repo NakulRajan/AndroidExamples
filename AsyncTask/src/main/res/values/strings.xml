@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="Download">Download</string>
+    <string name="Async">Async Task Example</string>
+    <string name="download_msg">Download not yet started !</string>
+</resources>
